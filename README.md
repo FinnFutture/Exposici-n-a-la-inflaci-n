@@ -1,1 +1,2 @@
-# Exposici-n-a-la-inflaci-n
+# Exposición-a-la-inflación
+Al tratar la clasificación de las cuentas se ha visto que las definidas como monetarias, están expresadas en el valor adquisitivo actual, por lo cual no requieren ajuste por el cambio de los precios, sin embargo al ser retenidos estos activos o pasivos a través del tiempo, sin que cambie su valor nominal, pero cambiando su poder adquisitivo, introducen una distorsión fundamental en los estados financieros, pues como consecuencia de ello, se producirá una utilidad o pérdida derivada directamente del proceso inflacionario, que es la que precisamente se intenta determinar por este sistema de corrección. 
